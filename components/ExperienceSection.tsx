@@ -22,7 +22,7 @@ const experiences = [
   },
   {
     title: "Assistant Professor",
-    institution: "SD Bansal",
+    institution: "SD Bansal College of Technology",
     location: "Indore",
     period: "2008 – 2009",
     description: "Served as Assistant Professor in Computer Science & Engineering Department",
